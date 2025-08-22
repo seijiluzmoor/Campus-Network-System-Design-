@@ -14,7 +14,7 @@ This project simulates a Campus Area Network  encompassing multiple departments/
 - Remote Access: Securely enabling network management from remote locations using SSH and restricted access controls.
 
 ### 2. Network Diagram
-A visual representation of the campus network topology is essential for understanding the design.
+A visual representation of the campus network topology is included in the repository.
 
 
 ### 3. Network Components & Services
